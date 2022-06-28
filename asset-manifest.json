@@ -1,24 +1,13 @@
 {
   "files": {
-    "main.css": "/react_repo/static/css/main.eeb43926.chunk.css",
-    "main.js": "/react_repo/static/js/main.7e4f6011.chunk.js",
-    "main.js.map": "/react_repo/static/js/main.7e4f6011.chunk.js.map",
-    "runtime-main.js": "/react_repo/static/js/runtime-main.a32678c9.js",
-    "runtime-main.js.map": "/react_repo/static/js/runtime-main.a32678c9.js.map",
-    "static/js/2.66b9976d.chunk.js": "/react_repo/static/js/2.66b9976d.chunk.js",
-    "static/js/2.66b9976d.chunk.js.map": "/react_repo/static/js/2.66b9976d.chunk.js.map",
-    "index.html": "/react_repo/index.html",
-    "precache-manifest.16b936b9e35f245aa8b19aec3057fae0.js": "/react_repo/precache-manifest.16b936b9e35f245aa8b19aec3057fae0.js",
-    "service-worker.js": "/react_repo/service-worker.js",
-    "static/css/main.eeb43926.chunk.css.map": "/react_repo/static/css/main.eeb43926.chunk.css.map",
-    "static/js/2.66b9976d.chunk.js.LICENSE.txt": "/react_repo/static/js/2.66b9976d.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/react_repo/static/media/logo.3795f66d.png",
-    "static/media/spinner.gif": "/react_repo/static/media/spinner.235b9b3e.gif"
+    "main.css": "/hexeam-test/static/css/main.20daa7ca.css",
+    "main.js": "/hexeam-test/static/js/main.bda65c9f.js",
+    "index.html": "/hexeam-test/index.html",
+    "main.20daa7ca.css.map": "/hexeam-test/static/css/main.20daa7ca.css.map",
+    "main.bda65c9f.js.map": "/hexeam-test/static/js/main.bda65c9f.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a32678c9.js",
-    "static/js/2.66b9976d.chunk.js",
-    "static/css/main.eeb43926.chunk.css",
-    "static/js/main.7e4f6011.chunk.js"
+    "static/css/main.20daa7ca.css",
+    "static/js/main.bda65c9f.js"
   ]
 }
